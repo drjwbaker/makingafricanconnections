@@ -1,6 +1,6 @@
 # Making African Connection, digitisation and data entry workflow
 
-## James Baker, June 2019
+## James Baker, June 2019
 
 This document contains explanatory notes on `2019-06-13_MAC-big-picture-workflow.pdf`, the overarching digitisation and data entry workflow for the [Making African Connections Digital Archive](http://makingafricanconnections.org/).
 
