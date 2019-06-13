@@ -1,4 +1,4 @@
-# Making African Connection, digitisation and data entry workflow
+# Making African Connections: digitisation and data entry workflow
 
 ## James Baker, June 2019
 
