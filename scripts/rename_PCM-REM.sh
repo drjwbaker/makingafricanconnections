@@ -1,0 +1,3 @@
+# will find all files in a directory and rename to `NEWID_a.TIF`, `NEWID_b.TIF` et cetera. Edit `NEWID` to ObjectID and `.TIF` to another file format as required. Note, this will only rename files not convert file formats. Use with collections from Powell Cotton Museum and Royal Engineers Museum.
+
+ARRAY=(a b c d e f g h i j k l m n o p q r s t u v x y z); i=0; for f in *.tif; do mv -- "$f" "REM_5001-44_${ARRAY[$i]}.tif"; i=$((i+1)); done
